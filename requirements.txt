@@ -4,6 +4,7 @@ matplotlib>=3.7.0
 dash>=3.0.0
 plotly>=6.0.0
 ollama>=0.6.0
+yfinance
 
 # These packages will be automatically installed as dependencies:
 # - numpy (required by pandas and matplotlib)
