@@ -23,7 +23,7 @@ Choose **one** of the two ways below. If you are not sure, use **Option A**.
 ### Option B: git clone (only if Git is installed on your computer)
 
 1. Open **PowerShell** (Windows) or **Terminal** (Mac).
-2. Go to the place where you want the folder, for example the Desktop:
+2. Go to the place where you want the folder, for example the Downloads:
    ```
    cd Downloads
    ```
@@ -31,7 +31,7 @@ Choose **one** of the two ways below. If you are not sure, use **Option A**.
    ```
    git clone https://github.com/jinjuuk/Finance-Prompt-Engineering-Project-Folder-P2-.git
    ```
-4. A folder called `Finance-Prompt-Engineering-Project-Folder-P2-` appears on your Desktop.
+4. A folder called `Finance-Prompt-Engineering-Project-Folder-P2-` appears on your Downloads folder.
 
 > 💡 You only need `git clone` once. If your instructor later says the files have been updated, open the project folder in PowerShell and run `git pull`.
 
