@@ -19,7 +19,7 @@ news_data = """ {
 
 def predict_with_llm(news_data= news_data):
     # SYSTEM PROMPT: tells the AI WHO it is and what its job is
-    system_prompt = """                   """
+    system_prompt = """You are a financial analyst AI that provides sentiment analysis by analysing the news data"""
 
     # USER PROMPT: the actual question, with the news story put inside it
     user_prompt = f"""                    """
