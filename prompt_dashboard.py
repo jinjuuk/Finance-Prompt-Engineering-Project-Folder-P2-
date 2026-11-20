@@ -28,7 +28,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 STOCK_FILE = os.path.join(SCRIPT_DIR, 'apple_stock_test_v2.csv')
 NEWS_FILE = os.path.join(SCRIPT_DIR, 'apple_news_test_v3.csv')
 
-MODEL = 'gemma4:e2b' #'martain7r/finance-llama-8b:q4_k_m'
+MODEL = 'martain7r/finance-llama-8b:q4_k_m'
 INITIAL_CASH = 10000
 SHORT_WINDOW = 5
 LONG_WINDOW = 20
