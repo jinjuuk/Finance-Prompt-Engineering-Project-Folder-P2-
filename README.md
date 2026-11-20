@@ -25,7 +25,7 @@ Choose **one** of the two ways below. If you are not sure, use **Option A**.
 1. Open **PowerShell** (Windows) or **Terminal** (Mac).
 2. Go to the place where you want the folder, for example the Desktop:
    ```
-   cd Desktop
+   cd Downloads
    ```
 3. Download the project:
    ```
